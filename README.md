@@ -25,25 +25,25 @@ Project created with:
 First, you need to install the libraries down below.
    * Librairies :
       - Speech Recognition : Perform speech recognition. 
-               ```
-               pip install SpeechRecognition
-               ```
+          ```
+          pip install SpeechRecognition
+          ```
       - Pyttsx3 : text-to-speech conversion.
-               ```
-               pip install pyttsx3
-               ```
+          ```
+          pip install pyttsx3
+          ```
       - pywhatkit : Has helpful features like playing youtube videos.
-               ```
-               pip install pywhatkit
-               ```
+          ```
+          pip install pywhatkit
+          ```
       - Wikipedia : Access to wikipedia's data.
-               ```
-               pip install wikipedia
-               ```
+          ```
+          pip install wikipedia
+          ```
       - Webbrowser : Open web sites.     
-               ```
-               pip install pycopy-webbrowser
-               ```
+          ```
+          pip install pycopy-webbrowser
+          ```
 
 
 Then, in your terminal 
