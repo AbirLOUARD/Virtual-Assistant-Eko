@@ -18,7 +18,7 @@ several languages and will become intelligent and autonomous.
 ## Technologies
 
 Project created with:
-* Python 3.7
+    Python 3.7
 
 ## How To Use
 
