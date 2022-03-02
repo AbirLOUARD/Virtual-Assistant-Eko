@@ -32,15 +32,15 @@ First, you need to install the libraries down below.
                ```
                pip install pyttsx3
                ```
-      - pywhatkit : Has helpful features like playing youtube videos 
+      - pywhatkit : Has helpful features like playing youtube videos.
                ```
                pip install pywhatkit
                ```
-      - Wikipedia : Access to wikipedia's data 
-                ```
+      - Wikipedia : Access to wikipedia's data.
+               ```
                pip install wikipedia
                ```
-      - Webbrowser : Open web sites        
+      - Webbrowser : Open web sites.     
                ```
                pip install pycopy-webbrowser
                ```
