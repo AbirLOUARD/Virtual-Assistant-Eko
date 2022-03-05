@@ -16,7 +16,6 @@ voice1 = engine.getProperty('voices')
 #Si vous voulez la voix féminine utilisez "voice1[3].id"
 engine.setProperty('voice', 'french')
 
-
 def talk(text):
     engine.say(text)
     engine.runAndWait()
