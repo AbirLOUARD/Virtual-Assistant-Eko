@@ -20,6 +20,7 @@ def talk(text):
     engine.say(text)
     engine.runAndWait()
 
+    
 def listen():
     try:
         with sr.Microphone() as source:
