@@ -19,7 +19,6 @@ engine.setProperty('voice', 'french')
 def talk(text):
     engine.say(text)
     engine.runAndWait()
-
     
 def listen():
     try:
