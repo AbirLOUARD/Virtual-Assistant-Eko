@@ -101,8 +101,6 @@ def the_assistant():
         sys.exit()
     else:
         talk("je n'ai pas compris, pouvez-vous répéter")
-
-
 if __name__ == '__main__':
     while True:
         the_assistant()
