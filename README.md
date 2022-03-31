@@ -49,5 +49,5 @@ First, you need to install the libraries down below.
 
 Then, in your terminal 
  ```
-git clone https://github.com/AbirLOUARD/assistant-virtuel-Eko.git"
+git clone https://github.com/AbirLOUARD/Virtual-Assistant-Eko.git
 ```
