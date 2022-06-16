@@ -31,6 +31,7 @@ def listen():
         pass
     return command
 
+
 def the_assistant():
     command = listen()
     print(command)
